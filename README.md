@@ -1,5 +1,5 @@
 # burp-request-timestamp
-Burp extension to replace a variable in the request with a fresh unix epoch timestamp
+Burp extension to replace a variable in the request with a fresh unix epoch timestamp.  
 Some pesky frameworks use this as a mitigation method against manual analysis. This helps break those ;)
 
 ## How to use
